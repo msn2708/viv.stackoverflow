@@ -1,4 +1,0 @@
-train (t-jx45cl6i48i5pb7nqqg6jy78z) {
-  utterance ("[g:GetItems] get all questions created before {[g:todate] (thanksgiving)[v:viv.time.DateTimeExpression]}")
-  plan (Y2BlECvLLNMrLklMzs4vSy1Ky8kv18ssSc1lkMIUd08t8QRKFTNIYMqV5KcklqQy8IJkSjJzU/VcQFxpFG4IkOFaUVCUWlycmZ/HwMLAyMDEwAykGaAsRiCLBchiALOZICoA)
-}

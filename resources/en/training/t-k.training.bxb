@@ -1,4 +1,0 @@
-train (t-kiep43t74ro4vdf53qb2zbq02) {
-  utterance ("[g:GetItems] get all questions created between {[g:fromdate] (11/07/2018)[v:viv.time.DateTimeExpression]} and {[g:todate] (12/3/2018)[v:viv.time.DateTimeExpression]}")
-  plan (fYpBCsIwEEV/k2rduBXRO+QUFnHvBYqdQtA4kgzR4zvpRqSl8zfz/vvYYJd9dkm6250zxeHBb+eFAg7T/kxyUZXm3BA59J0Q9lMnPJptMeIDudMMHv/wqk/7eUVKyfNzWTaoYGBRY4W1EpR/TYVytcZoMDZGd1aXpbFf)
-}

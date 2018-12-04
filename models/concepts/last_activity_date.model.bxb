@@ -1,4 +1,0 @@
-integer (last_activity_date) {
-  description (__DESCRIPTION__)
-}
-

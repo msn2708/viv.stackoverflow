@@ -1,7 +1,0 @@
-structure (tags) {
-  description (__DESCRIPTION__)
-  property (tag) {
-    type (tag)
-    min (Required) max (Many)
-  }
-}

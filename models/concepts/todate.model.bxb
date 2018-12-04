@@ -1,4 +1,0 @@
-structure (todate) {
-  description (__DESCRIPTION__)
-  role-of (time.Date)
-}

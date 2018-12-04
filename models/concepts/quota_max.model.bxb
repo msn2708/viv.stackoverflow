@@ -1,3 +1,0 @@
-integer (quota_max) {
-  description (__DESCRIPTION__)
-}

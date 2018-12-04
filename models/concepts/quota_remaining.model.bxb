@@ -1,3 +1,0 @@
-integer (quota_remaining) {
-  description (__DESCRIPTION__)
-}

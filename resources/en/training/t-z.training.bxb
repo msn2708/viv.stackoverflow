@@ -1,4 +1,0 @@
-train (t-zguf98zjmgu39z3xl699huwzp) {
-  utterance ("[g:GetItems] get all questions created between {[g:fromdate] (thanksgiving)[v:viv.time.DateTimeExpression]} and {[g:todate] (christmas)[v:viv.time.DateTimeExpression]}")
-  plan (fYpBCsIwEEV/k2rduBXRO+QUFnHvBYqdQtA4kgzR4zvpRqSl8zfz/vvYYJd9dkm6250zxeHBb+eFAg7T/kxyUZXm3BA59J0Q9lMnPJptMeIDudMMHv/wqk/7eUVKyfNzWTaoYGBRY4W1EpR/TYVytcZoMDZGd1aXpbFf)
-}
