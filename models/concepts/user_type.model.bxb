@@ -1,0 +1,3 @@
+text (user_type) {
+  description (__DESCRIPTION__)
+}

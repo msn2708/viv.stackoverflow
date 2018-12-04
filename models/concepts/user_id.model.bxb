@@ -1,0 +1,3 @@
+integer (user_id) {
+  description (__DESCRIPTION__)
+}

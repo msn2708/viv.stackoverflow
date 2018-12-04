@@ -1,0 +1,14 @@
+layout {
+  match: item (this)
+  mode (Summary)
+  
+  content {
+    section {
+      content {
+        paragraph {
+          value ("#{value(this.title)}")
+        }
+      }
+    }
+  }
+}

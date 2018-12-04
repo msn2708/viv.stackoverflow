@@ -1,0 +1,4 @@
+structure (fromdate) {
+  description (__DESCRIPTION__)
+  role-of (time.Date)
+}

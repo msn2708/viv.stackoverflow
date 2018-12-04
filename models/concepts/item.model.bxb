@@ -1,0 +1,72 @@
+structure (item) {
+  description (__DESCRIPTION__)
+
+  property (tags) {
+    type (tag)
+    min (Required) max (Many)
+  }
+
+  property (owner) {
+    type (owner)
+    min (Optional) max (One)
+  }
+
+  property (is_answered) {
+    type (is_answered)
+    min (Required) max (One)
+  }
+
+  property (view_count) {
+    type (view_count)
+    min (Required) max (One)
+  }
+
+  property (closed_date) {
+    type (closed_date)
+    max (One) min (Optional)
+  }
+  
+  property (answer_count) {
+    type (answer_count) 
+    min (Optional) max (One)
+  }
+
+  property (score) {
+    type (score) 
+    min (Required) max (One)
+  }
+
+  property (last_activity_date) {
+    type (last_activity_date) 
+    max (One) min (Optional)
+  }
+
+  property (last_edit_date) {
+    type (last_edit_date)
+    max (One) min (Optional)
+  }
+  property (creation_date) {
+    type (creation_date) 
+    max (One) min (Required)
+  }
+
+  property (question_id) {
+    type (question_id)
+    max (One) min (Required)
+  }
+
+  property (link) {
+    type (link) 
+    max (One) min (Required)
+  }
+
+  property (closed_reason)
+  {
+    type (closed_reason)
+    max (One) min (Optional)
+  }
+  
+  property (title) {
+    type (title) max (One) min (Required)
+  }
+}

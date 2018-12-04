@@ -1,0 +1,12 @@
+structure (Answer) {
+  
+  description (Represents the Answer object returned by StackOverflow)
+  
+  property (items) {type (item) min (Required) max (Many)}
+
+  property (has_more) {type (has_more) min (Required) max (One)}
+
+  property (quota_max) {type(quota_max) min (Required) max (One)}
+
+  property (quota_remaining) {type(quota_remaining) min (Required) max (One)}
+}
