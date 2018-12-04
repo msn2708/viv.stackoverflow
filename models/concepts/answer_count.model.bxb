@@ -1,0 +1,3 @@
+integer (answer_count) {
+  description (__DESCRIPTION__)
+}

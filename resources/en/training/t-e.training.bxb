@@ -1,0 +1,4 @@
+train (t-e9tlndqu31vf8munhwkbhtrpf) {
+  utterance ("[g:GetItems] get all questions created since {[g:fromdate] (yesterday)[v:viv.time.DateTimeExpression]}")
+  plan (Y2BlECvLLNMrLklMzs4vSy1Ky8kv18ssSc1lkMIUd08t8QRKFWOTSyvKz01JLEll4AXJlWTmpuq5gLjSKNwQIMO1oqAotbg4Mz+PgYWBkYGJgRlIM0BZjEAWC5DFAGYzQVQAAA==)
+}

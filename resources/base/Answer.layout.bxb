@@ -1,0 +1,16 @@
+layout {
+  match: Answer (this)
+  mode (Summary)
+
+  content {
+    section {
+      content {
+        paragraph {
+          
+          value ("#{value(this.items)}")
+        }
+      }
+    }
+  }
+}
+

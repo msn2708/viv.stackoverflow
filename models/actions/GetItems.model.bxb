@@ -1,0 +1,16 @@
+action (GetItems) {
+  type(Search)
+  description (__DESCRIPTION__)
+  collect {
+    input (fromdate) {
+      type (fromdate)
+      min (Optional) max (One)
+    }
+    
+    input(todate) {
+      type (todate)
+      min (Optional) max (One)
+    }
+  }
+  output (item)
+}

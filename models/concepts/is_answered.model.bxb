@@ -1,0 +1,3 @@
+boolean (is_answered) {
+  description (__DESCRIPTION__)
+}
